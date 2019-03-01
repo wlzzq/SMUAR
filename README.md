@@ -8,7 +8,7 @@ news and guides, this works by developing a camera application that identifies s
 objects or shapes such as barcodes and once the camera recognizes that shape then the 
 shape will be replaced by an augmented object.
 
-Role: I will be developer of  the augmented reality application. 
+Role: I will be the developer of  the augmented reality application. 
 
 Two week progress: So far I have searched for similar ideas on the net to get a better 
 view on how to create such application. 
