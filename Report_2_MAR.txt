@@ -1,0 +1,23 @@
+I have researched on the augmented reality topic, and I have found the following:
+
+    The developer will need to have a good understanding of 3D shapes (X, Y, and Z axis)
+
+    I will use Unity to develop the application and for that I will have to learn how Unity works and can one apply 
+    augmented reality features to a project
+
+    The programming language that will be used to develop this project is C#
+
+    Understanding how images can be transformed into a video or another image is important.
+
+
+Challenges:
+
+    Learning curve will increase for the developer
+
+    Time management will have to be addressed in order for the developer to keep track of what is done  
+
+
+Significant progress:
+
+    No significant progress have been made at this point other than researching more about the topic and 
+    identifying challenges that the developer may run into
