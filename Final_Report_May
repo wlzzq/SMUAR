@@ -1,0 +1,49 @@
+CSC 481
+Saint Martin’s University
+Final Report
+Alwaleed (Welly) Alqufaydi
+May, 07, 2019
+
+
+
+Identify the Client 
+
+The client for this project will be students and staff of Saint Martin’s University. Saint Martin’s University is an educational institution that has a large campus with a number of buildings and special equipment that some individuals may not know how to operate.
+
+
+Identify the Client’s Needs
+
+1. Students may not know how use tools such as fire extinguishers or
+printers.
+2. Buildings’ operating hours are not listed.
+3. Some professors do not have an office hour sheet on their offices and
+some does not have an updated one.
+4. Students may want to know what the facilities on campus look like but
+they might not have access due to reasons such as weather, after hours,
+or access card issues.
+
+
+Literature Review
+
+Some examples of An augmented reality application would be A 3D furniture viewer. For instance, a user may use the application to organize their homes before buying furniture. This application helps users choose the best furniture that suits their offices and homes. Another example would be an AR browser. The users will use the camera on their smartphones and point it to a historical architecture and the app will display the information related to the architecture on display.
+
+
+
+Methodology
+
+The methodology that will be used to develop SMU AR Experience is the agile software development method. The agile approach helps to clarify each function of the application which may increase the time of development.   
+
+Resources Required
+The resources that will be used to develop this application are:
+
+1. A smartphone (preferably an android device)
+2. A computer with unity installed on it
+3. A bar code generator
+4. A good understanding of 3D objects design
+
+Milestones for CSC 482
+1. Analysis of the project and an estimate of how long it will take for an inexperienced developer to create such application
+2. Conducting interviews with potential users
+3. Designing the application
+4. Building the application
+5. Create test cases to test the application  
