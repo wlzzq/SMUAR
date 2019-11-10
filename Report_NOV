@@ -1,0 +1,7 @@
+1- I am working on refining our design to make it look presentable, I have learnt how to create a 3d object using unity. For the QR cods we might just rely on some unique objects for the camera to recognize, though I have found a lot of sources online that generate free QR coeds
+
+2- We have made some  progress regarding the application,
+
+ .- Creating an actual application and testing it  on an Adriano phone
+
+  - Testing the camera application to see what conditions would make the camera stop recognizing objects 
